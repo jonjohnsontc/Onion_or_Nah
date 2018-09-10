@@ -40,7 +40,7 @@ The **Full Dataset TFIDF 2 - Logistic Regression** model is the one I pushed to 
 
 ## Organization
 
-This project is divided into TK separate folders, while a `requirements.txt` can be found in the root directory, names and descriptions of folders below:
+This project is divided into 5 separate folders, while a `requirements.txt` can be found in the root directory, names and descriptions of folders below:
 
 - data: contains the datasets scrapped from the pushshift API in the form of .json files 
 - images: contains images generated within my notebooks and utilized in the presentation file
